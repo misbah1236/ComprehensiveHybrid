@@ -1,0 +1,107 @@
+2021-11-22 15:36:34,830 DEBUG [main] GiftRunner:14 - URL Opened
+2021-11-22 15:36:35,302 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-22 15:36:35,304 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-11-22 15:36:35,306 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-22 15:36:35,307 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-22 15:36:35,308 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Misbah/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-22 15:36:35,599 DEBUG [main] GiftRunner:14 - Page opend with title Gifts Online - Send Unique, Unusual Gifts in India, Buy Gifts– Bigsmall.in
+2021-11-22 15:36:35,907 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-22 15:36:35,908 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-11-22 15:36:35,909 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-22 15:36:35,909 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-22 15:36:35,910 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Misbah/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-22 15:36:37,936 DEBUG [main] GiftRunner:14 - Log In Button is clicked in page Home Page
+2021-11-22 15:36:43,350 DEBUG [main] GiftRunner:14 - Email field is send in page Account Log in
+2021-11-22 15:36:43,594 DEBUG [main] GiftRunner:14 - password field is send in page Account Log in
+2021-11-22 15:36:44,068 DEBUG [main] GiftRunner:14 - sign in button is clicked in page Account Log in
+2021-11-22 15:36:44,250 DEBUG [main] GiftRunner:14 - Successfully logged in
+2021-11-22 15:36:47,199 ERROR [main] GiftRunner:21 - Bigsmall pic is not able clicked in page Log in page
+2021-11-22 15:36:47,380 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-22 15:36:47,380 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-11-22 15:36:47,381 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-22 15:36:47,382 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-22 15:36:47,382 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Misbah/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-22 15:36:49,487 ERROR [main] GiftRunner:21 - Personalize Gift button is not able clicked in page Home page
+2021-11-22 15:36:49,629 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-22 15:36:49,630 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-11-22 15:36:49,630 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-22 15:36:49,631 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-22 15:36:49,631 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Misbah/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-22 15:36:52,784 DEBUG [main] GiftRunner:14 - secretsanta button is clicked in page  Home page
+2021-11-22 15:36:53,093 ERROR [main] GiftRunner:21 - tissue box  is not able clicked in page  secretsanta page
+2021-11-22 15:36:53,262 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-22 15:36:53,262 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-11-22 15:36:53,262 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-22 15:36:53,263 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-22 15:36:53,263 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Misbah/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-22 15:36:53,341 ERROR [main] GiftRunner:21 - Corporate Button is not able clicked in page Home Page
+2021-11-22 15:36:53,505 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-22 15:36:53,506 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-11-22 15:36:53,507 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-22 15:36:53,507 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-22 15:36:53,508 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Misbah/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-22 15:36:56,813 DEBUG [main] GiftRunner:14 - Gifts For Girls is clicked in page Home Page
+2021-11-22 15:37:03,252 DEBUG [main] GiftRunner:14 - Magical Rainbow Rug is clicked in page result page
+2021-11-22 15:37:06,931 DEBUG [main] GiftRunner:14 - quantity button  is send in page socks page
+2021-11-22 15:37:07,680 DEBUG [main] GiftRunner:14 - cart button is clicked in page socks page
+2021-11-22 15:37:11,483 DEBUG [main] GiftRunner:14 - Close Button is clicked in page Cart Page
+2021-11-22 15:37:14,325 DEBUG [main] GiftRunner:14 - Bigsmall pic is clicked in page cart page
+2021-11-22 15:37:19,764 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-22 15:37:19,765 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-11-22 15:37:19,766 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-22 15:37:19,766 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-22 15:37:19,767 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Misbah/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-22 15:37:22,535 DEBUG [main] GiftRunner:14 - Personalize Gift button is clicked in page Home page
+2021-11-22 15:37:25,918 DEBUG [main] GiftRunner:14 - Stainless Steel Bamboo Bottle is clicked in page result page
+2021-11-22 15:37:28,386 DEBUG [main] GiftRunner:14 - Quantity Field is send in page Cart Page
+2021-11-22 15:37:28,901 DEBUG [main] GiftRunner:14 - Add to cart is clicked in page Cart page
+2021-11-22 15:37:34,608 DEBUG [main] GiftRunner:14 - Bigsmall pic is clicked in page cart
+2021-11-22 15:37:35,039 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-22 15:37:35,040 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-11-22 15:37:35,041 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-22 15:37:35,041 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-22 15:37:35,041 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Misbah/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-22 15:37:37,841 DEBUG [main] GiftRunner:14 - diwali Gift button is clicked in page Home page
+2021-11-22 15:37:41,567 DEBUG [main] GiftRunner:14 - Handmade Fish Platter is clicked in page result page
+2021-11-22 15:37:44,100 DEBUG [main] GiftRunner:14 - Quantity Field is send in page Cart Page
+2021-11-22 15:37:44,699 DEBUG [main] GiftRunner:14 - Add to cart is clicked in page Cart page
+2021-11-22 15:37:48,351 DEBUG [main] GiftRunner:14 - Close Button is clicked in page Cart Page
+2021-11-22 15:37:51,124 DEBUG [main] GiftRunner:14 - Bigsmall pic is clicked in page cart
+2021-11-22 15:37:51,606 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-22 15:37:51,607 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-11-22 15:37:51,607 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-22 15:37:51,608 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-22 15:37:51,608 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Misbah/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-22 15:37:57,382 DEBUG [main] GiftRunner:14 - newyear Gift button is clicked in page Home page
+2021-11-22 15:38:01,538 DEBUG [main] GiftRunner:14 - Vintage Coffee Grinder is clicked in page result page
+2021-11-22 15:38:04,230 DEBUG [main] GiftRunner:14 - Quantity Field is send in page Cart Page
+2021-11-22 15:38:04,904 DEBUG [main] GiftRunner:14 - Add to cart is clicked in page Cart page
+2021-11-22 15:38:08,668 DEBUG [main] GiftRunner:14 - Close Button is clicked in page Cart Page
+2021-11-22 15:38:11,600 DEBUG [main] GiftRunner:14 - Bigsmall pic is clicked in page cart
+2021-11-22 15:38:12,197 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-22 15:38:12,198 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-11-22 15:38:12,198 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-22 15:38:12,199 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-22 15:38:12,199 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Misbah/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-22 15:38:17,976 DEBUG [main] GiftRunner:14 - rakhi button is clicked in page Home page
+2021-11-22 15:38:21,727 DEBUG [main] GiftRunner:14 - Mask Bandhan Rakhi is clicked in page result page
+2021-11-22 15:38:24,374 DEBUG [main] GiftRunner:14 - Quantity Field is send in page Cart Page
+2021-11-22 15:38:24,955 DEBUG [main] GiftRunner:14 - Add to cart is clicked in page Cart page
+2021-11-22 15:38:28,573 DEBUG [main] GiftRunner:14 - Close Button is clicked in page Cart Page
+2021-11-22 15:38:31,275 DEBUG [main] GiftRunner:14 - Bigsmall pic is clicked in page cart
+2021-11-22 15:38:31,769 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-22 15:38:31,769 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-11-22 15:38:31,770 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-22 15:38:31,770 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-22 15:38:31,771 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Misbah/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-22 15:38:34,751 DEBUG [main] GiftRunner:14 - Lamps is clicked in page Home Page
+2021-11-22 15:38:40,987 DEBUG [main] GiftRunner:14 - Wooden LED Love Lamp is clicked in page result page
+2021-11-22 15:38:44,611 DEBUG [main] GiftRunner:14 - quantity button  is send in page socks page
+2021-11-22 15:38:45,260 DEBUG [main] GiftRunner:14 - cart button is clicked in page socks page
+2021-11-22 15:38:48,982 DEBUG [main] GiftRunner:14 - Close Button is clicked in page Cart Page
+2021-11-22 15:38:51,701 DEBUG [main] GiftRunner:14 - Bigsmall pic is clicked in page cart page
+2021-11-22 15:38:57,124 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-22 15:38:57,127 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-11-22 15:38:57,127 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-22 15:38:57,132 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-22 15:38:57,132 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Misbah/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
